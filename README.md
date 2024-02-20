@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anro772
 - ⚡ Passionate Developer 👨‍💻 and Gamer 🎮
-- 👀 I’m interested in C/C++/C#/Python/Java
-- 🌱 I’m currently working on improving myself
+- 👀 I’m interested in C++/C#/JavaScript/Python
+- 🌱 I’m currently working for IBM as an Application Developer
 - 📫 How to reach me: 
 ->  [Discord](https://discord.com/channels/810633494425501706/810633494425501709)
 ->  [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=[andreistefan7272@gmail.com])
