@@ -9,7 +9,7 @@
   ->  [Instagram](https://www.instagram.com/stefanandrei7722/)
 
 ## 📈 Contribution Calendar
-![anro772's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anro772&theme=react-dark&area=true&hide_border=true)
+![GitHub Contribution Grid](https://ghchart.rshah.org/anro772)
 
 ## 🐍 My Contributions
 <picture>
