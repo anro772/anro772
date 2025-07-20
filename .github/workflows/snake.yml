@@ -20,7 +20,7 @@ jobs:
     
     steps:
       - name: Generate github-contribution-grid-snake.svg
-        uses: anro772/my-snk-action@main  # Replace with your repo
+        uses: anro772/snk-game@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
